@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Typing SVG by Getintorj -->
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20WEB%20DEVELOPER%20;MACHINE%20LEARNING%20&%20AI%20ENTHUSIAST;JAVASCRIPT%20;SOFTWARE%20ENGINEER;PROBLEM%20SOLVER;ALWAYS%20LEARNING%20NEW%20TECHNOLOGIES&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20WEB%20DEVELOPER%20;PROBLEM%20SOLVER&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
