@@ -10,28 +10,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<p align="center">
-  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
-</p>
+<h2 align="center">🌐 Let's Connect & Collaborate 🤝</h2>
 
 <p align="center">
-  <a href="mailto:yuzhere55@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="200px" />
+  <a href="mailto:yuzhere55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/yusraazeem55/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="200px" />
+  <a href="https://www.linkedin.com/in/yusraazeem55/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Yusra-Azeem" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" width="200px" />
+  <a href="https://github.com/Yusra-Azeem">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-
-<!-- Visitor Count -->
 <p align="center">
-  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/Yusra-Azeem/count.svg"/>
+  <i>✨ Open to collaborations, internships, and exciting opportunities.</i>
 </p>
+
+
+
 
 <!-- Languages Used -->
 <p align="center">
@@ -50,44 +48,46 @@
 
 ---
 
-<h2 align="center" style="color: #4A90E2;">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
+<h3 align="center">👩‍💻 Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="80px" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="80px" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" width="80px" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="80px" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" width="80px" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="80px" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="80px" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c,python" />
 </p>
 
----
-
-<h2 align="center" style="color: #4A90E2;">💡 Skills</h2>
-
-<h3 align="center" style="color: #4A90E2;">Languages</h3>
+<h3 align="center">⚛️ Frontend</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="80px" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" width="80px" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="80px" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind" />
 </p>
 
-<h3 align="center" style="color: #4A90E2;">Frameworks & Libraries</h3>
+<h3 align="center">🚀 Backend</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" width="80px" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="80px" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" width="80px" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
 </p>
 
-<h3 align="center" style="color: #4A90E2;">Databases</h3>
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="80px" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-<h3 align="center" style="color: #4A90E2;">Tools</h3>
+<h3 align="center">🤖 AI / ML</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" width="80px" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="80px" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="80px" />
+  <img src="https://img.shields.io/badge/XGBoost-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+
+<h3 align="center">🧰 Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,firebase" />
+</p>
+
+<h3 align="center">📚 Currently Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+</p>
+
