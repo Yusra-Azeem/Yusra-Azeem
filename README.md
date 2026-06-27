@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm <b>Yusra Azeem</b></h1>
 
 <p align="center">
@@ -7,18 +6,18 @@
 
 <p align="center">
 Full-Stack Developer passionate about building scalable web applications and integrating AI to create intelligent user experiences.<br>
-Currently pursuing <b>MCA at IGDTUW</b>, with interests in Software Engineering, Full-Stack Development, and Problem Solving.
+Currently pursuing <b>MCA at IGDTUW</b> · Open to <b>Software Development Engineer (SDE)</b> roles.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 MCA Student at **Indira Gandhi Delhi Technical University for Women (IGDTUW)**
-- 💻 Full-Stack Developer with experience in **React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, and Supabase**
-- 🤖 Interested in building **AI-powered applications** using RAG, Vector Databases, and Machine Learning
-- 📚 Currently strengthening my skills in **System Design**, **Data Structures & Algorithms**, and **Backend Engineering**
-- 🚀 Open to **Software Development Engineer (SDE)** opportunities
+- 🎓 **MCA** at Indira Gandhi Delhi Technical University for Women (IGDTUW)
+- 💻 Full-Stack Developer experienced in **React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, and Supabase**
+- 🤖 Building **AI-powered applications** with RAG pipelines, Vector Databases, and Machine Learning
+- 📚 Currently deepening expertise in **System Design** and **Data Structures & Algorithms**
+- 🚀 Actively seeking **SDE opportunities** — internships and full-time roles
 
 ---
 
@@ -28,11 +27,9 @@ Currently pursuing <b>MCA at IGDTUW</b>, with interests in Software Engineering,
 <a href="mailto:yuzhere55@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/yusraazeem55/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Yusra-Azeem">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -42,19 +39,19 @@ Currently pursuing <b>MCA at IGDTUW</b>, with interests in Software Engineering,
 
 ## 🚀 Featured Projects
 
-### 📚 Algonest – AI-Powered EdTech Platform
+### 📚 Algonest — AI-Powered EdTech Platform
 
-Build an AI-powered EdTech platform that delivers personalized learning through roadmaps, assessments, student dashboards, mentor sessions, and AI-assisted doubt resolution. Developed full-stack features, secure REST APIs, and a RAG-based knowledge retrieval system.
+An AI-powered EdTech platform delivering personalized learning through adaptive roadmaps, assessments, student dashboards, mentor sessions, and AI-assisted doubt resolution. Architected full-stack features, secure REST APIs, and a RAG-based knowledge retrieval system using pgvector.
 
-**Tech Stack:** React • RAG • Node.js • Express.js • Supabase • pgvector
+**Tech Stack:** React · Node.js · Express.js · Supabase · pgvector · RAG
 
 ---
 
 ### 🌌 Exoplanet Detection & Habitability Prediction
 
-Built an end-to-end machine learning pipeline for exoplanet detection and habitability prediction using **XGBoost**, **SMOTETomek**, and **SHAP** to deliver accurate and explainable predictions.
+End-to-end machine learning pipeline for exoplanet detection and habitability classification using **XGBoost**, **SMOTETomek** for class imbalance, and **SHAP** for explainability. Achieved accurate, interpretable predictions on NASA Kepler dataset.
 
-**Tech Stack:** Python • XGBoost • Scikit-learn • Pandas • NumPy • SHAP
+**Tech Stack:** Python · XGBoost · Scikit-learn · Pandas · NumPy · SHAP
 
 ---
 
@@ -74,31 +71,26 @@ Built an end-to-end machine learning pipeline for exoplanet detection and habita
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Languages
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
 </p>
 
 ### ⚛️ Frontend
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind"/>
 </p>
 
 ### 🚀 Backend
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### 🗄️ Databases
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb"/>
 </p>
 
 ### 🤖 AI / Machine Learning
-
 <p align="center">
 <img src="https://img.shields.io/badge/XGBoost-FFB000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -107,7 +99,6 @@ Built an end-to-end machine learning pipeline for exoplanet detection and habita
 </p>
 
 ### 🧰 Tools
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,firebase"/>
 </p>
@@ -122,9 +113,9 @@ Built an end-to-end machine learning pipeline for exoplanet detection and habita
 ---
 
 <p align="center">
-<b>💼 Open to Software Engineering Opportunities</b>
+<b>💼 Open to Software Engineering Opportunities — Internships & Full-Time</b>
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting!
 </p>
