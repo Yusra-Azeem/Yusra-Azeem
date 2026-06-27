@@ -44,7 +44,7 @@ Currently pursuing <b>MCA at IGDTUW</b>, with interests in Software Engineering,
 
 ### 📚 Algonest – AI-Powered EdTech Platform
 
-Co-built an AI-powered EdTech platform that delivers personalized learning through roadmaps, assessments, student dashboards, mentor sessions, and AI-assisted doubt resolution. Developed full-stack features, secure REST APIs, and a RAG-based knowledge retrieval system.
+Build an AI-powered EdTech platform that delivers personalized learning through roadmaps, assessments, student dashboards, mentor sessions, and AI-assisted doubt resolution. Developed full-stack features, secure REST APIs, and a RAG-based knowledge retrieval system.
 
 **Tech Stack:** React • RAG • Node.js • Express.js • Supabase • pgvector
 
