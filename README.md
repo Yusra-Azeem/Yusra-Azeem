@@ -15,7 +15,7 @@ Currently pursuing <b>MCA at IGDTUW</b> · Open to <b>Software Development Engin
 
 - 🎓 **MCA** at Indira Gandhi Delhi Technical University for Women (IGDTUW)
 - 💻 Full-Stack Developer experienced in **React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, and Supabase**
-- 🤖 Building **AI-powered applications** with RAG pipelines, Vector Databases, and Machine Learning
+- 🤖 Building **AI-powered applications** with RAG pipelines and Vector Databases
 - 📚 Currently deepening expertise in **System Design** and **Data Structures & Algorithms**
 - 🚀 Actively seeking **SDE opportunities** — internships and full-time roles
 
